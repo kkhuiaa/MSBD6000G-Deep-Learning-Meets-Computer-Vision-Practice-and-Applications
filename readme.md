@@ -3,14 +3,9 @@
 Group project for MSBD5002
 
 ## Getting Started
-Important: it is assumed that the pwd is in src folder (if not, please use cd command to change the driectory)
-To run the script, you may type the following in terminal:
-```
-python main.py
-```
+Important: it is assumed that the pwd is in root directory of this project (if not, please use cd command to change the driectory)
 
 ### Prerequisites
-
 The script is written in python 3 with required packages:
 ```
 numpy==1.15.4
@@ -23,10 +18,7 @@ matplotlib==3.0.4
 ```
 
 ### Installing
-os, time, pickle, warnings should be installed already when installing python
-
-For installing specific version of package, you can install it as follow: (through pip)
-
+os, time, pickle, warnings should be installed already when installing python. For installing specific version of package, you can install it as follow: (through pip)
 ```
 pip install -Iv pandas==0.23.4
 ```
@@ -54,7 +46,7 @@ For step2, please make sure you have GPU environment to build the model.
 The scipt follows [pip8](https://www.python.org/dev/peps/pep-0008/) standard python notation.
 
 ### Acknowledgments
-Model has been considered and modified from [anish9](https://github.com/anish9/Fashion-AI-segmentation) and [shaoanlu](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/)
+Model has been considered and modified from [anish9](https://github.com/anish9/Fashion-AI-segmentation) and [shaoanlu](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/).
 
 ### Authors
 * **Hui Kwat Kong** - *20123133*
