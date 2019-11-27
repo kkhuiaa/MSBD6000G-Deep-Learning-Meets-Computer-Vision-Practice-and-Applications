@@ -1,6 +1,6 @@
 # MSBD6000G-Spring2019 group project
 
-Group project for MSBD600G
+Group project for MSBD6000G
 
 ## Getting Started
 Important: it is assumed that the pwd is in root directory of this project (if not, please use cd command to change the driectory)
