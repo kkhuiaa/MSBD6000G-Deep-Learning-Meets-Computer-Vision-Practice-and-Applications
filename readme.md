@@ -1,4 +1,6 @@
-# MSBD6000G-Spring2019 group project
+# MSBD6000G-Spring2019
+
+For assignment, please check the subfolder.
 
 Group project for MSBD6000G
 
