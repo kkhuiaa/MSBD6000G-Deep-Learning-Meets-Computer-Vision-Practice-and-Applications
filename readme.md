@@ -2,7 +2,7 @@
 
 For assignment, please check the subfolder.
 
-Group project for MSBD6000G
+Group project for MSBD6000G: Transform a clothing from model to another person by Cycle-GANs
 
 ## Getting Started
 Important: it is assumed that the pwd is in root directory of this project (if not, please use cd command to change the driectory)
