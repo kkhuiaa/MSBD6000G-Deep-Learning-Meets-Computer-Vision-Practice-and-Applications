@@ -51,5 +51,5 @@ The scipt follows [pip8](https://www.python.org/dev/peps/pep-0008/) standard pyt
 Model has been considered and modified from [anish9](https://github.com/anish9/Fashion-AI-segmentation) and [shaoanlu](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/).
 
 ### Authors
-* **Hui Kwat Kong** - *20123133*
-* **Song Yangyang** - *20534320*
+* *20123133*
+* *20534320*
